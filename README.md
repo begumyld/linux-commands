@@ -8,3 +8,4 @@ CSE 471 LAB HOMEWORK
 |dig|The dig command in Linux is used to gather DNS information.|![image](https://github.com/begumyld/linux-commands/assets/80525497/1e5ea007-8b33-4ee5-b57d-17d2e26d85fe)|
 
 
+
