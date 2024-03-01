@@ -14,6 +14,8 @@ CSE 471 LAB HOMEWORK
 |nc|nc command is a command-line utility for reading and writing data between two computer networks. |![Screenshot 2024-03-01 at 23 32 39](https://github.com/begumyld/linux-commands/assets/80525497/e7420028-853c-458a-9f0c-445e4181f5fb)|
 |socat|Its purpose is to establish a relationship between two data sources, where each data source can be a file, a Unix socket, UDP, TCP, or standard input.|![Screenshot 2024-03-01 at 23 36 07](https://github.com/begumyld/linux-commands/assets/80525497/2434c11d-8974-4e7d-9510-b50399bb8849)|
 |ipcalc|perform simple manipulation of IP addresses|![Screenshot 2024-03-01 at 23 49 37](https://github.com/begumyld/linux-commands/assets/80525497/6cc7717d-5988-468e-840e-885a5ac25a5d)|
+|traceroute|traceroute command in Linux prints the route that a packet takes to reach the host. |![Screenshot 2024-03-01 at 23 58 26](https://github.com/begumyld/linux-commands/assets/80525497/9310e6d8-ac9f-4a8b-b140-eb8a2a13463b)|
+
 
 
 
