@@ -17,6 +17,11 @@ CSE 471 LAB HOMEWORK
 |traceroute|traceroute command in Linux prints the route that a packet takes to reach the host. |![Screenshot 2024-03-01 at 23 58 26](https://github.com/begumyld/linux-commands/assets/80525497/9310e6d8-ac9f-4a8b-b140-eb8a2a13463b)|
 |nslookup|nslookup is a command-line tool to retrieve a domain's information, including its IP address and DNS record.|![Screenshot 2024-03-02 at 00 11 27](https://github.com/begumyld/linux-commands/assets/80525497/fb909eac-3ef5-426b-b743-95a7575b4710)|
 |netstat| this command can tell you about the connections your computer is making, the paths it uses to send information, and even some technical details like how many packets of data are being sent or received. |![Screenshot 2024-03-02 at 00 13 52](https://github.com/begumyld/linux-commands/assets/80525497/4e96d91a-432a-4c78-92f9-ad125918ffce)|
+|sysctl|The sysctl command is used to list, read, and set kernel tunables. It can filter tunables when listing or reading and set tunables temporarily or permanently.|![image](https://github.com/begumyld/linux-commands/assets/80525497/2fe534a1-659b-4a81-b9f0-b3c3b5c4eba6)|
+|ab|The ab command also known as ApacheBench is a command line benchmarking tool for testing the amount of time it takes your server to respond to HTTP requests.|![image](https://github.com/begumyld/linux-commands/assets/80525497/a35ebf87-8828-49d6-9453-ac1f1c94749a)|
+|ssh|The ssh command is used to securely log into a remote machine and execute commands on that machine.|![Screenshot 2024-03-03 at 14 52 59](https://github.com/begumyld/linux-commands/assets/80525497/f5310554-d0d0-44d3-a72f-ed077796f657)|
+|date|The date command in Linux is used to display and set the system date and time.|![Screenshot 2024-03-03 at 14 55 29](https://github.com/begumyld/linux-commands/assets/80525497/58b6a29c-d615-4631-af5b-37b41219162f)|
+|scp|scp is a command-line utility that allows you to securely copy files and directories between two locations.|![image](https://github.com/begumyld/linux-commands/assets/80525497/235cf077-5998-405d-b674-40880db87da3)|
 
 
 
